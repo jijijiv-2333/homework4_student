@@ -34,5 +34,8 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
-Write your paragraph on the importance of the required plot elements here.
+### Yiyang Liu yiyang23@uw.edu
+Linear regression provides a simple model to understand overall trends and make predictions, but it may oversimplify complex data patterns and ignore non-linear relationships. 
+Interpolation fills in missing data points, creating a continuous dataset that can be useful for analysis and visualization. However, it assumes that the missing data follows the same trend as the existing data, which might not always be accurate. 
+Rolling means help to smooth out short-term fluctuations and highlight longer-term trends, making it easier to identify underlying patterns. Yet, this method can also obscure important short-term variations and may not handle missing data well without additional interpolation. 
+Each method has its strengths and is best suited for specific types of data and analysis goals, we should compare and choose the best fit way based on the characteristics of the data.
